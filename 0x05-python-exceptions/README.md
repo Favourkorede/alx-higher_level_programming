@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Solution to tasks on 0x05 Python - Exceptions
+=======
+# Solution to tasks on 0x05. Python - Exceptions
+>>>>>>> 7af17481a7b75fbd4e9a32b18c286725f9fdc906
 
 ## Task 0:  Safe list printing
 Write a function that prints x elements of a list.
@@ -8,7 +12,12 @@ Write a function that prints x elements of a list.
 - All elements must be printed on the same line followed by a new line.
 - x represents the number of elements to print
 - x can be bigger than the length of my_list
+<<<<<<< HEAD
 - Returns the real number of elements printe - You have to use try: / except:
+=======
+- Returns the real number of elements printed
+- You have to use try: / except:
+>>>>>>> 7af17481a7b75fbd4e9a32b18c286725f9fdc906
 - You are not allowed to import any module
 - You are not allowed to use len()
 
